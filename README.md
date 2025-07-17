@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I'm David Stone 👋
+
+🚀 About Me
+I'm a passionate software developer who loves turning ideas into reality through code. When I'm not coding, you'll find me exploring new technologies, and contributing to open source
 
 <!--
 **dcstone09/dcstone09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
